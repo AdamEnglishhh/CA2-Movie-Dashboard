@@ -314,13 +314,13 @@ movies_eda['tag_count'] = movies_eda['tag_count'].fillna(0)
 movies_eda.head()
 
 
-# In[31]:
+# In[33]:
 
 
-pip install streamlit
+##pip install streamlit
 
 
-# In[32]:
+# In[34]:
 
 
 import streamlit as st
